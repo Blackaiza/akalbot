@@ -1,0 +1,141 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Laman Utama",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard-analytics",
+      "badge": [
+        "danger",
+        "Hello!"
+      ]
+    },
+    {
+      "menuHeader": "Pengenalan"
+    },
+    {
+      "url": "aktiviti_1/kenalAkalBot",
+      "icon": "menu-icon tf-icons bx bx-file",
+      "name": "AkalBOT",
+      "slug": "aktiviti_1-kenalAkalBot"
+    },
+    {
+      "url": "aktiviti_1/kenalAkalBLOK",
+      "icon": "menu-icon tf-icons bx bx-file",
+      "name": "AkalBLOK",
+      "slug": "aktiviti_1-kenalAkalBLOK"
+    },
+    {
+      "url": "aktiviti_1/kenalEditorArduino",
+      "icon": "menu-icon tf-icons bx bx-file",
+      "name": "Editor Arduino",
+      "slug": "aktiviti_1-kenalEditorArduino"
+    },
+    {
+      "url": "aktiviti_1/kenalCartaAlir",
+      "icon": "menu-icon tf-icons bx bx-file",
+      "name": "Carta Alir",
+      "slug": "aktiviti_1-kenalCartaAlir"
+    },
+    {
+      "url": "aktiviti_1/kitaranPermainan",
+      "icon": "menu-icon tf-icons bx bx-file",
+      "name": "Kitaran Permainan",
+      "slug": "aktiviti_1-kitaranPermainan"
+    },
+    {
+      "menuHeader": "Permainan"
+    },
+    {
+      "name": "Kitar 1: Jom jatuhkan selipar",
+      "icon": "menu-icon tf-icons bx bx-layout",
+      "slug": "Kitar_1",
+      "submenu": [
+        {
+          "url": "Kitar_1/kitar1_konten",
+          "name": "Jom jatuhkan selipar",
+          "slug": "Kitar_1-kitar1_konten"
+        }
+      ]
+    },
+    {
+      "name": "Kitar 2: Jom tuju lebih banyak selipar",
+      "icon": "menu-icon tf-icons bx bx-layout",
+      "slug": "Kitar_2",
+      "submenu": [
+        {
+          "url": "Kitar_2/kitar2_konten",
+          "name": "Jom jatuhkan selipar",
+          "slug": "Kitar_2-kitar2_konten"
+        }
+      ]
+    },
+    {
+      "name": "Kitar 3: Jom elak selipar",
+      "icon": "menu-icon tf-icons bx bx-layout",
+      "slug": "Kitar_3",
+      "submenu": [
+        {
+          "url": "Kitar_3/kitar3_konten",
+          "name": "Jom tuju lebih banyak selipar",
+          "slug": "Kitar_3-kitar3_konten"
+        }
+      ]
+    },
+    {
+      "name": "Kitar 4: Kod Rahsia Selipar",
+      "icon": "menu-icon tf-icons bx bx-layout",
+      "slug": "Kitar_4",
+      "submenu": [
+        {
+          "url": "pages/misc-error",
+          "name": "Kod Rahsia Selipar",
+          "slug": "pages-misc-error"
+        }
+      ]
+    },
+    {
+      "name": "Kuiz",
+      "icon": "menu-icon tf-icons bx bx-collection",
+      "slug": "Kuiz",
+      "submenu": [
+        {
+          "url": "pages/misc-under-maintenance",
+          "name": "Soalan Kuiz",
+          "slug": "pages-misc-under-maintenance"
+        }
+      ]
+    },
+    {
+      "menuHeader": "Sumbangan Idea"
+    },
+    {
+      "name": "Cipta Idea",
+      "icon": "menu-icon tf-icons bx bx bx-dock-top",
+    "url": "pages/misc-under-maintenance",
+      "slug": "pages-misc-under-maintenance"
+    },
+    {
+      "name": "Semua Idea",
+      "icon": "menu-icon tf-icons bx bx bx-dock-top",
+      "url": "pages/misc-under-maintenance",
+      "slug": "pages-misc-under-maintenance"
+    },
+    {
+      "menuHeader": "Documentation"
+    },
+   
+    {
+      "name": "Profil",
+      "icon": "menu-icon tf-icons bx bx bx-dock-top",
+      "url": "pages/misc-under-maintenance",
+      "slug": "pages-misc-under-maintenance"
+    },
+    {
+      "name": "Komuniti",
+      "icon": "menu-icon tf-icons bx bx bx-dock-top",
+      "url": "pages/misc-under-maintenance",
+      "slug": "pages-misc-under-maintenance"
+    }
+  ]
+}
